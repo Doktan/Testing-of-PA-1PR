@@ -1,0 +1,15 @@
+C:\Users\Doktan\source\repos\FirstPractos\bin\Debug\FirstPractos.exe.config
+C:\Users\Doktan\source\repos\FirstPractos\bin\Debug\FirstPractos.exe
+C:\Users\Doktan\source\repos\FirstPractos\bin\Debug\FirstPractos.pdb
+C:\Users\Doktan\source\repos\FirstPractos\obj\Debug\FirstPractos.csprojAssemblyReference.cache
+C:\Users\Doktan\source\repos\FirstPractos\obj\Debug\MainWindow.g.cs
+C:\Users\Doktan\source\repos\FirstPractos\obj\Debug\App.g.cs
+C:\Users\Doktan\source\repos\FirstPractos\obj\Debug\FirstPractos_MarkupCompile.cache
+C:\Users\Doktan\source\repos\FirstPractos\obj\Debug\FirstPractos_MarkupCompile.lref
+C:\Users\Doktan\source\repos\FirstPractos\obj\Debug\MainWindow.baml
+C:\Users\Doktan\source\repos\FirstPractos\obj\Debug\FirstPractos.g.resources
+C:\Users\Doktan\source\repos\FirstPractos\obj\Debug\FirstPractos.Properties.Resources.resources
+C:\Users\Doktan\source\repos\FirstPractos\obj\Debug\FirstPractos.csproj.GenerateResource.cache
+C:\Users\Doktan\source\repos\FirstPractos\obj\Debug\FirstPractos.csproj.CoreCompileInputs.cache
+C:\Users\Doktan\source\repos\FirstPractos\obj\Debug\FirstPractos.exe
+C:\Users\Doktan\source\repos\FirstPractos\obj\Debug\FirstPractos.pdb

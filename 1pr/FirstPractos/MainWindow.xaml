@@ -1,0 +1,21 @@
+﻿<Window x:Class="FirstPractos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FirstPractos"
+        mc:Ignorable="d"
+        Title="Вариант 11" Height="159.557" Width="352.492">
+	<Grid Margin="0,0,2,0">
+		<Grid.ColumnDefinitions>
+		</Grid.ColumnDefinitions>
+		<TextBox x:Name="textArea" HorizontalAlignment="Left" Height="45" Margin="10,40,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="314" Grid.ColumnSpan="2"/>
+		<TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Введите предложение" VerticalAlignment="Top" Width="314" Height="25" FontSize="16" Grid.ColumnSpan="2"/>
+		<ComboBox x:Name="Selector" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" Width="72" Height="22" DropDownClosed="Selector_DropDownClosed" SelectionChanged="Selector_SelectionChanged">
+			<TextBlock>#</TextBlock>
+			<TextBlock>*</TextBlock>
+		</ComboBox>
+		<Button x:Name="Button" Content="Заменить" HorizontalAlignment="Left" Margin="249,90,0,0" VerticalAlignment="Top" Width="75" Height="22" IsEnabled="False" Click="Button_Click"/>
+
+	</Grid>
+</Window>
