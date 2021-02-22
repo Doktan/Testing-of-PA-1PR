@@ -1,0 +1,7 @@
+C:\Users\Doktan\source\repos\TestingPr2\TestingPr2\bin\Debug\TestingPr2.exe.config
+C:\Users\Doktan\source\repos\TestingPr2\TestingPr2\bin\Debug\TestingPr2.exe
+C:\Users\Doktan\source\repos\TestingPr2\TestingPr2\bin\Debug\TestingPr2.pdb
+C:\Users\Doktan\source\repos\TestingPr2\TestingPr2\obj\Debug\TestingPr2.csprojAssemblyReference.cache
+C:\Users\Doktan\source\repos\TestingPr2\TestingPr2\obj\Debug\TestingPr2.csproj.CoreCompileInputs.cache
+C:\Users\Doktan\source\repos\TestingPr2\TestingPr2\obj\Debug\TestingPr2.exe
+C:\Users\Doktan\source\repos\TestingPr2\TestingPr2\obj\Debug\TestingPr2.pdb
