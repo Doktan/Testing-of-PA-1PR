@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TestingPr3
 {
-    class CreateFile
+    public class CreateFile
     {
         private static CreateFile instance;
         private CreateFile()

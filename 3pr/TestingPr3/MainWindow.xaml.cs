@@ -78,7 +78,7 @@ namespace TestingPr3
 
         private void Window_Closed(object sender, EventArgs e)
         {
-
+            //var LabelOnComboBox = (Label)FindName("LabelCombo");
         }
     }
 }

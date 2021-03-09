@@ -7,7 +7,7 @@ using System.IO;
 
 namespace TestingPr3
 {
-    class FindAllStrings //If string length in file < 20 then remember it
+   public class FindAllStrings //If string length in file < 20 then remember it
     {
         private static FindAllStrings instance;
 
