@@ -1,0 +1,22 @@
+﻿<Window x:Class="TestingPr3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestingPr3"
+        mc:Ignorable="d"
+        Title="Вариант 10" Height="193.007" Width="412.937" Closed="Window_Closed">
+
+    <Grid Name="Grid" Margin="0,0,2,1">
+        <ComboBox x:Name="Selector" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top" Width="148" DropDownClosed="ComboBox_DropDownClosed">
+            <ComboBoxItem>Записать в файл</ComboBoxItem>
+            <ComboBoxItem>Записать в массив</ComboBoxItem>
+        </ComboBox>
+        <Label x:Name="LabelCombo" Content="Выбрать режима вывода" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Labelnput" Content="Название файла (по стандарту g)" HorizontalAlignment="Left" Margin="10,73,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="FileName" HorizontalAlignment="Left" Height="23" Margin="10,98,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="192" IsEnabled="False"/>
+        <Button x:Name="InputInFile" Content="Записать" HorizontalAlignment="Left" Margin="10,126,0,0" VerticalAlignment="Top" Width="75" IsEnabled="False" Click="InputInFile_Click"/>
+        <TextBox x:Name="OutputWindow" HorizontalAlignment="Left" Height="110" Margin="207,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="179" IsEnabled="False"/>
+        <Label x:Name="LabelOutup" Content="Вывод" HorizontalAlignment="Left" Margin="207,10,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
