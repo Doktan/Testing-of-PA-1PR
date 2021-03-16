@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Doktan\\source\\repos\\TestingPr3\\UnitTestProject1\\UnitTestProject1.csproj": {}
+    "F:\\everything\\game\\GitHub\\Testing-of-PA-1PR\\5-6pr\\UnitTestProject1\\UnitTestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Doktan\\source\\repos\\TestingPr3\\TestingPr3\\TestingPr3.csproj": {
+    "F:\\everything\\game\\GitHub\\Testing-of-PA-1PR\\5-6pr\\TestingPr3\\TestingPr3.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Doktan\\source\\repos\\TestingPr3\\TestingPr3\\TestingPr3.csproj",
+        "projectUniqueName": "F:\\everything\\game\\GitHub\\Testing-of-PA-1PR\\5-6pr\\TestingPr3\\TestingPr3.csproj",
         "projectName": "TestingPr3",
-        "projectPath": "C:\\Users\\Doktan\\source\\repos\\TestingPr3\\TestingPr3\\TestingPr3.csproj"
+        "projectPath": "F:\\everything\\game\\GitHub\\Testing-of-PA-1PR\\5-6pr\\TestingPr3\\TestingPr3.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\Doktan\\source\\repos\\TestingPr3\\UnitTestProject1\\UnitTestProject1.csproj": {
+    "F:\\everything\\game\\GitHub\\Testing-of-PA-1PR\\5-6pr\\UnitTestProject1\\UnitTestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Doktan\\source\\repos\\TestingPr3\\UnitTestProject1\\UnitTestProject1.csproj",
+        "projectUniqueName": "F:\\everything\\game\\GitHub\\Testing-of-PA-1PR\\5-6pr\\UnitTestProject1\\UnitTestProject1.csproj",
         "projectName": "UnitTestProject1",
-        "projectPath": "C:\\Users\\Doktan\\source\\repos\\TestingPr3\\UnitTestProject1\\UnitTestProject1.csproj",
+        "projectPath": "F:\\everything\\game\\GitHub\\Testing-of-PA-1PR\\5-6pr\\UnitTestProject1\\UnitTestProject1.csproj",
         "packagesPath": "C:\\Users\\Doktan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Doktan\\source\\repos\\TestingPr3\\UnitTestProject1\\obj\\",
+        "outputPath": "F:\\everything\\game\\GitHub\\Testing-of-PA-1PR\\5-6pr\\UnitTestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Doktan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,8 +38,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Doktan\\source\\repos\\TestingPr3\\TestingPr3\\TestingPr3.csproj": {
-                "projectPath": "C:\\Users\\Doktan\\source\\repos\\TestingPr3\\TestingPr3\\TestingPr3.csproj"
+              "F:\\everything\\game\\GitHub\\Testing-of-PA-1PR\\5-6pr\\TestingPr3\\TestingPr3.csproj": {
+                "projectPath": "F:\\everything\\game\\GitHub\\Testing-of-PA-1PR\\5-6pr\\TestingPr3\\TestingPr3.csproj"
               }
             }
           }

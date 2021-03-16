@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "felLVpfsPwm+POYXyFj0CrtK4eJUPgHWU+yGVe/5xORROT1JoCQ9PmSieH0ppIGXlm/mjzv2PWvqUBdHtiHvHQ==",
+  "dgSpecHash": "fa2Ev6b8JtPdLUm5Dor67NEMn8UXQAAWMWdrfD5day/LsjzOu37/O/Av4SbqVQ1a3tnB/KPV/LTDHamEgdOo+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Doktan\\source\\repos\\TestingPr3\\UnitTestProject1\\UnitTestProject1.csproj",
+  "projectFilePath": "F:\\everything\\game\\GitHub\\Testing-of-PA-1PR\\5-6pr\\UnitTestProject1\\UnitTestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Doktan\\.nuget\\packages\\appium.webdriver\\4.3.1\\appium.webdriver.4.3.1.nupkg.sha512",
     "C:\\Users\\Doktan\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
