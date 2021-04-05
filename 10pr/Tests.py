@@ -17,8 +17,7 @@ class VkTest(unittest.TestCase):
 
     def test_allRight(self):
         res = GetUnread(Login,Password)
-        print(res)
-        self.assertEqual(res,res)
+        self.assertEqual(res[0],res[1])
 
 if __name__ == "__main__":
     unittest.main()
